@@ -2,7 +2,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 
 // Teamfight Tactics MCP Server — Tool declarations
-// Full implementation runs on Apify Standby: https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis
+// Full implementation runs on Apify Standby: https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge
 
 const server = new McpServer({
   name: "tft-mcp-server",
