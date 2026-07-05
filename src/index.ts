@@ -1,7 +1,7 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 
-// Teamfight Tactics MCP Server — Tool declarations
+// Teamfight Tactics MCP Server - Tool declarations
 // Full implementation runs on Apify Standby: https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge
 
 const server = new McpServer({
@@ -47,7 +47,7 @@ server.tool("tft_analyze_performance", "Analyze recent TFT performance with AI r
   matchCount: z.number().optional().describe("Number of matches to analyze"),
 });
 
-server.tool("tft_analyze_composition", "Analyze TFT compositions — trait synergies, unit choices, item builds, augments", {
+server.tool("tft_analyze_composition", "Analyze TFT compositions - trait synergies, unit choices, item builds, augments", {
   gameName: z.string().describe("Player name"),
   tagLine: z.string().describe("Tag line"),
   region: z.string().optional().describe("Region"),

@@ -1,4 +1,4 @@
-# Teamfight Tactics MCP Server — AI Game Analysis
+# Teamfight Tactics MCP Server - AI Game Analysis
 
 **TFT data & AI-powered coaching for Claude Desktop, Claude Code & MCP-compatible AI assistants.**
 
@@ -9,7 +9,7 @@
 
 ## What does it do?
 
-Teamfight Tactics MCP Server connects AI assistants to TFT data via the Riot Games API. **10 tools** for player profiles, ranked stats, match history, composition analysis, augment optimization, live game detection — plus **AI-powered performance coaching**.
+Teamfight Tactics MCP Server connects AI assistants to TFT data via the Riot Games API. **10 tools** for player profiles, ranked stats, match history, composition analysis, augment optimization, live game detection - plus **AI-powered performance coaching**.
 
 TFT is a game of decision-making under pressure. This server lets AI do the heavy lifting: it reads your match history, analyzes your comps, and gives you **actionable coaching advice** tailored to your rank and playstyle.
 
