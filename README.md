@@ -2,10 +2,10 @@
 
 **TFT data & AI-powered coaching for Claude Desktop, Claude Code & MCP-compatible AI assistants.**
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-00C7B7?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge)
+[![Apify Actor](https://img.shields.io/badge/Apify-Actor-00C7B7?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/mrbridge/tft-mcp-server)
 [![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-5A67D8?style=for-the-badge)](https://modelcontextprotocol.io)
 [![Tools](https://img.shields.io/badge/Tools-10-blue?style=flat-square)](#available-tools)
-[![Rating](https://img.shields.io/badge/Rating-5.0%2F5-gold?style=flat-square)](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge)
+[![Rating](https://img.shields.io/badge/Rating-5.0%2F5-gold?style=flat-square)](https://apify.com/mrbridge/tft-mcp-server)
 
 ## What does it do?
 
@@ -42,7 +42,7 @@ TFT is a game of decision-making under pressure. This server lets AI do the heav
 2. Add a custom MCP connector:
 
 ```
-https://mrbridge--teamfight-tactics-mcp-server---ai-game-analysis.apify.actor/mcp?token=YOUR_APIFY_TOKEN
+https://mrbridge--tft-mcp-server.apify.actor/mcp?token=YOUR_APIFY_TOKEN
 ```
 
 3. Ask Claude: *"Analyze my last 10 TFT games, I'm YourName#EUW"*
@@ -53,7 +53,7 @@ Pay-per-event on Apify. $5 free credits/month included.
 
 ## Links
 
-- **Apify Store**: [TFT MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge)
+- **Apify Store**: [TFT MCP Server](https://apify.com/mrbridge/tft-mcp-server)
 - **Full documentation**: See the Apify Store page for detailed README, output examples, and troubleshooting
 
 ## License
