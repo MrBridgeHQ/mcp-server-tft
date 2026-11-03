@@ -2,10 +2,10 @@
 
 **TFT data & AI-powered coaching for Claude Desktop, Claude Code & MCP-compatible AI assistants.**
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-00C7B7?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/mrbridge/tft-mcp-server)
+[![Apify Actor](https://img.shields.io/badge/Apify-Actor-00C7B7?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/mrbridge/tft-mcp-server?fpr=mrbridge)
 [![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-5A67D8?style=for-the-badge)](https://modelcontextprotocol.io)
 [![Tools](https://img.shields.io/badge/Tools-10-blue?style=flat-square)](#available-tools)
-[![Rating](https://img.shields.io/badge/Rating-5.0%2F5-gold?style=flat-square)](https://apify.com/mrbridge/tft-mcp-server)
+[![Rating](https://img.shields.io/badge/Rating-5.0%2F5-gold?style=flat-square)](https://apify.com/mrbridge/tft-mcp-server?fpr=mrbridge)
 
 ## What does it do?
 
@@ -53,7 +53,7 @@ Pay-per-event on Apify. $5 free credits/month included.
 
 ## Links
 
-- **Apify Store**: [TFT MCP Server](https://apify.com/mrbridge/tft-mcp-server)
+- **Apify Store**: [TFT MCP Server](https://apify.com/mrbridge/tft-mcp-server?fpr=mrbridge)
 - **Full documentation**: See the Apify Store page for detailed README, output examples, and troubleshooting
 
 ## License
