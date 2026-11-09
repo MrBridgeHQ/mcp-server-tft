@@ -54,7 +54,7 @@ This repository holds the tool declarations only. The server itself runs on Apif
 ## Quick Start
 
 1. Create an Apify account if you do not have one: [sign up](https://console.apify.com/sign-up?fpr=mrbridge).
-2. Get your [Apify API token](https://console.apify.com/settings/integrations).
+2. Get your [Apify API token](https://console.apify.com/settings/integrations?fpr=mrbridge).
 3. Add a custom MCP connector in your client with this URL, using Streamable HTTP:
 
 ```
